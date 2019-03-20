@@ -1,5 +1,5 @@
 # CECS105
 Repository for CE/CS 105
 
-THIS CLASS IS OK I GEUSS
-GRAPHIC DESIGN IS MY PASSION 
+This class is ok I geuss
+Graphic Design is my Passion
